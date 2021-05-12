@@ -1,0 +1,173 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:2:1-98:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\05e5994bf6cc26b23c60ac91e8a4c105\support-v4-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8a885c169a7e8081eeaae5af410de41a\support-media-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a575315bc771efeb08458d212c007459\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\104fcc4e8ccf73b1870430a53985d870\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\438630230b5ac133c34b2ff60495d751\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5e7952ce47f7deafd5c239fcd8d1556a\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\1f717b86d1c4780319a27508416a5090\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\99409147189a81d7378ebee5abd206a8\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4a590b1ec8069942fa005250fe00b949\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\39a3fb225d5de71e6a69020e9dff20f7\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:2:1-98:12
+	package
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:4:5-51
+	xmlns:android
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\05e5994bf6cc26b23c60ac91e8a4c105\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\05e5994bf6cc26b23c60ac91e8a4c105\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8a885c169a7e8081eeaae5af410de41a\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8a885c169a7e8081eeaae5af410de41a\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a575315bc771efeb08458d212c007459\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a575315bc771efeb08458d212c007459\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\104fcc4e8ccf73b1870430a53985d870\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\104fcc4e8ccf73b1870430a53985d870\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\438630230b5ac133c34b2ff60495d751\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\438630230b5ac133c34b2ff60495d751\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5e7952ce47f7deafd5c239fcd8d1556a\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5e7952ce47f7deafd5c239fcd8d1556a\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\1f717b86d1c4780319a27508416a5090\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\1f717b86d1c4780319a27508416a5090\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\99409147189a81d7378ebee5abd206a8\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\99409147189a81d7378ebee5abd206a8\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4a590b1ec8069942fa005250fe00b949\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4a590b1ec8069942fa005250fe00b949\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\39a3fb225d5de71e6a69020e9dff20f7\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\39a3fb225d5de71e6a69020e9dff20f7\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:14:22-77
+application
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:17:5-96:19
+	android:label
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:18:9-45
+activity#android.dte.listefemerides.VerActivityApp
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:20:9-27:20
+	android:screenOrientation
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:22:13-49
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:21:13-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:25:27-74
+activity#android.dte.listefemerides.BuscarActivityApp
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:28:9-31:20
+	android:screenOrientation
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:29:13-72
+activity#android.dte.listefemerides.VerActivitySimple
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:38:9-42:20
+	android:screenOrientation
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:39:13-72
+receiver#android.dte.listefemerides.WidgetEfemerides
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:44:9-55:20
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:44:19-77
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE+action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.DATE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:45:13-50:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:46:17-84
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:46:25-81
+action#android.intent.action.TIME_SET
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:47:17-73
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:47:25-70
+action#android.intent.action.DATE_CHANGED
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:48:25-74
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:49:17-79
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:49:25-76
+meta-data#android.appwidget.provider
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:52:13-54:59
+	android:resource
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:54:17-56
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:53:17-58
+activity#android.dte.listefemerides.VerActivityList
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:62:9-66:20
+	android:screenOrientation
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:64:13-49
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:63:13-70
+activity#android.dte.listefemerides.BuscarActivityList
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:67:9-71:20
+	android:screenOrientation
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:69:13-49
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:68:13-73
+activity#android.dte.listefemerides.MostrarActivityList
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:72:9-76:20
+	android:screenOrientation
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:74:13-49
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:73:13-74
+receiver#android.dte.listefemerides.TestListWidgetProvider
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:78:9-89:20
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:78:19-83
+service#android.dte.listefemerides.TestRemoteViewsService
+ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:92:9-95:72
+	android:exported
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:94:13-37
+	android:permission
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:95:13-69
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:93:13-77

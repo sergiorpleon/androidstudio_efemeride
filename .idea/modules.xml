@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/efemerides.iml" filepath="$PROJECT_DIR$/.idea/modules/efemerides.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/efemerides.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/efemerides.app.iml" />
+    </modules>
+  </component>
+</project>

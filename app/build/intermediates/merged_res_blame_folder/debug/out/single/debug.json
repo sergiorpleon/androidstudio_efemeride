@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ir.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\drawable-hdpi\\ir.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\layout_verlayout.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\layout\\verlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_box1.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\drawable-hdpi\\box1.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_sobre.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\layout\\layout_sobre.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_box3.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\drawable-hdpi\\box3.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_item.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\layout\\layout_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\xml_widget_provider.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\xml\\widget_provider.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_list_widget_layout.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\layout\\test_list_widget_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_efemerides.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\layout\\widget_efemerides.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_boxblanco.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\drawable-hdpi\\boxblanco.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\xml_test_list_appwidget_provider.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\xml\\test_list_appwidget_provider.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_box0.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\drawable-hdpi\\box0.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\layout_verlayoutapp.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\layout\\verlayoutapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_box2.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\drawable-hdpi\\box2.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_mes.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\layout\\layout_mes.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_boxmarco.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\drawable-hdpi\\boxmarco.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_buscarr.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\drawable-hdpi\\buscarr.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_box_marco_grid.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\drawable-hdpi\\box_marco_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_boxazulmarco.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\drawable-hdpi\\boxazulmarco.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_boxazul.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\drawable-hdpi\\boxazul.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_box.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\drawable-hdpi\\box.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_verr.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\drawable-hdpi\\verr.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_layout.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\layout\\list_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_boxazulclaro.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\drawable-hdpi\\boxazulclaro.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_item_dia.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\efemerides\\app\\src\\main\\res\\layout\\layout_item_dia.xml"
+    }
+]

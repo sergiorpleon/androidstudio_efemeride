@@ -1,0 +1,39 @@
+android/dte/listefemerides/VerActivityApp.java
+ android.dte.listefemerides.VerActivityApp
+ android.dte.listefemerides.VerActivityApp$1
+android/dte/listefemerides/AdaptadorEfemerides.java
+ android.dte.listefemerides.AdaptadorEfemerides
+android/dte/listefemerides/TestRemoteViewsFactory.java
+ android.dte.listefemerides.TestRemoteViewsFactory
+android/dte/listefemerides/EfemerideItem.java
+ android.dte.listefemerides.EfemerideItem
+android/dte/listefemerides/DBHelper.java
+ android.dte.listefemerides.DBHelper
+android/dte/listefemerides/TestRemoteViewsService.java
+ android.dte.listefemerides.TestRemoteViewsService
+android/dte/listefemerides/AdaptadorEfemeridesDia.java
+ android.dte.listefemerides.AdaptadorEfemeridesDia
+android/dte/listefemerides/Global.java
+ android.dte.listefemerides.Global
+android/dte/listefemerides/WidgetEfemerides.java
+ android.dte.listefemerides.WidgetEfemerides
+android/dte/listefemerides/BuscarActivityApp.java
+ android.dte.listefemerides.BuscarActivityApp
+ android.dte.listefemerides.BuscarActivityApp$1
+android/dte/listefemerides/BuscarActivityList.java
+ android.dte.listefemerides.BuscarActivityList
+ android.dte.listefemerides.BuscarActivityList$1
+android/dte/listefemerides/VerActivityList.java
+ android.dte.listefemerides.VerActivityList
+ android.dte.listefemerides.VerActivityList$1
+android/dte/listefemerides/Efemeride.java
+ android.dte.listefemerides.Efemeride
+android/dte/listefemerides/VerActivitySimple.java
+ android.dte.listefemerides.VerActivitySimple
+ android.dte.listefemerides.VerActivitySimple$1
+android/dte/listefemerides/MostrarActivityList.java
+ android.dte.listefemerides.MostrarActivityList
+android/dte/listefemerides/BuildConfig.java
+ android.dte.listefemerides.BuildConfig
+android/dte/listefemerides/TestListWidgetProvider.java
+ android.dte.listefemerides.TestListWidgetProvider

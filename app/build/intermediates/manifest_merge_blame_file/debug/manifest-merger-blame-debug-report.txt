@@ -1,0 +1,162 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="android.dte.listefemerides"
+4    android:versionCode="2"
+5    android:versionName="1.2" >
+6
+7    <uses-sdk
+7-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:8:5-10:41
+8        android:minSdkVersion="16"
+8-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:9:9-35
+9        android:targetSdkVersion="27" />
+9-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:10:9-38
+10
+11    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+11-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:12:5-81
+11-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:12:22-78
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:13:5-80
+12-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:13:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:14:5-79
+13-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:14:22-77
+14
+15    <application
+15-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:17:5-96:19
+16        android:debuggable="true"
+17        android:icon="@drawable/ic_launcher"
+17-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:18:9-45
+18        android:label="Efemérides"
+18-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:19:9-35
+19        android:testOnly="true" >
+20        <activity
+20-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:20:9-27:20
+21            android:name="android.dte.listefemerides.VerActivityApp"
+21-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:21:13-69
+22            android:screenOrientation="portrait" >
+22-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:22:13-49
+23            <intent-filter>
+23-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:23:13-26:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:24:17-69
+24-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:24:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:25:17-77
+26-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:25:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity
+29-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:28:9-31:20
+30            android:name="android.dte.listefemerides.BuscarActivityApp"
+30-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:29:13-72
+31            android:screenOrientation="portrait" >
+31-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:30:13-49
+32        </activity>
+33        <!--
+34**********************************************************************
+35* Test Simple Widget Provider
+36**********************************************************************
+37        -->
+38
+39        <activity
+39-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:38:9-42:20
+40            android:name="android.dte.listefemerides.VerActivitySimple"
+40-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:39:13-72
+41            android:screenOrientation="portrait" >
+41-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:40:13-49
+42        </activity>
+43
+44        <receiver android:name="android.dte.listefemerides.WidgetEfemerides" >
+44-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:44:9-55:20
+44-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:44:19-77
+45            <intent-filter>
+45-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:45:13-50:29
+46                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+46-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:46:17-84
+46-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:46:25-81
+47                <action android:name="android.intent.action.TIME_SET" />
+47-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:47:17-73
+47-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:47:25-70
+48                <action android:name="android.intent.action.DATE_CHANGED" />
+48-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:48:17-77
+48-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:48:25-74
+49                <action android:name="android.intent.action.BOOT_COMPLETED" />
+49-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:49:17-79
+49-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:49:25-76
+50            </intent-filter>
+51
+52            <meta-data
+52-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:52:13-54:59
+53                android:name="android.appwidget.provider"
+53-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:53:17-58
+54                android:resource="@xml/widget_provider" />
+54-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:54:17-56
+55        </receiver>
+56        <!--
+57**********************************************************************
+58* Test List Widget Provider
+59**********************************************************************
+60        -->
+61
+62        <activity
+62-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:62:9-66:20
+63            android:name="android.dte.listefemerides.VerActivityList"
+63-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:63:13-70
+64            android:screenOrientation="portrait" >
+64-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:64:13-49
+65        </activity>
+66        <activity
+66-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:67:9-71:20
+67            android:name="android.dte.listefemerides.BuscarActivityList"
+67-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:68:13-73
+68            android:screenOrientation="portrait" >
+68-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:69:13-49
+69        </activity>
+70        <activity
+70-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:72:9-76:20
+71            android:name="android.dte.listefemerides.MostrarActivityList"
+71-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:73:13-74
+72            android:screenOrientation="portrait" >
+72-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:74:13-49
+73        </activity>
+74
+75        <receiver android:name="android.dte.listefemerides.TestListWidgetProvider" >
+75-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:78:9-89:20
+75-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:78:19-83
+76            <meta-data
+76-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:52:13-54:59
+77                android:name="android.appwidget.provider"
+77-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:53:17-58
+78                android:resource="@xml/test_list_appwidget_provider" />
+78-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:54:17-56
+79
+80            <intent-filter>
+80-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:45:13-50:29
+81                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+81-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:46:17-84
+81-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:46:25-81
+82                <action android:name="android.intent.action.TIME_SET" />
+82-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:47:17-73
+82-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:47:25-70
+83                <action android:name="android.intent.action.DATE_CHANGED" />
+83-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:48:17-77
+83-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:48:25-74
+84                <action android:name="android.intent.action.BOOT_COMPLETED" />
+84-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:49:17-79
+84-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:49:25-76
+85            </intent-filter>
+86        </receiver>
+87
+88        <!-- The service serving the RemoteViews to the collection widget -->
+89        <service
+89-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:92:9-95:72
+90            android:name="android.dte.listefemerides.TestRemoteViewsService"
+90-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:93:13-77
+91            android:exported="false"
+91-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:94:13-37
+92            android:permission="android.permission.BIND_REMOTEVIEWS" />
+92-->C:\Users\HP\AndroidStudioProjects\efemerides\app\src\main\AndroidManifest.xml:95:13-69
+93    </application>
+94
+95</manifest>
